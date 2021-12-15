@@ -1,0 +1,2 @@
+# Genericmeth
+Une méthode générique 
